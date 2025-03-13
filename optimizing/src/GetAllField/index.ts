@@ -24,7 +24,7 @@ async function getAllFields(): Promise<FieldArray[] | null> {
 
     try {
         // Đọc file input.txt
-        const rawData = fs.readFileSync("src/input.txt", "utf8");
+        const rawData = fs.readFileSync("src/getAllField/input.txt", "utf8");
         const json: any[] = JSON.parse(rawData);
 
         if (json.length === 0) return null;
@@ -85,4 +85,4 @@ const fieldArray: FieldArray[] = Object.entries(data?.field_array as Record<stri
 }
 
 
-getAllFields().then();
+getAllFields().then(result => console.log("Kết quả:", result));
