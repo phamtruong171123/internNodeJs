@@ -47,6 +47,7 @@ async function getDataMappingOneTableV2(table: string, projectId: string): Promi
         table_old_name?: string, 
         table_new_name?: string 
     }[] = [];
+    console.log("json", json);
 
     try {
         json = JSON.parse(rawData);

@@ -1,0 +1,3543 @@
+[
+  {
+    "tableOldName": "data_customer",
+    "tableNewName": "data_customer",
+    "fields": [
+      {
+        "rootKey": "_last_activity_time",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "_last_activity_time": {
+              "name": "f_date_1",
+              "type": "date",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "is_merge_item",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "is_merge_item": {
+              "name": "f_boolean_1",
+              "type": "boolean",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "sinh_nhat",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "sinh_nhat": {
+              "name": "f_date_2",
+              "type": "date",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "_date_sinh_nhat",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "_date_sinh_nhat": {
+              "name": "f_date_3",
+              "type": "date",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "sync_id",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "sync_id": {
+              "name": "f_string_5",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "tmp_unique",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "tmp_unique": {
+              "name": "f_string_6",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "note",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "note": {
+              "name": "f_text_1",
+              "type": "text",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "website",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "website": {
+              "name": "f_string_7",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_first_utm_source",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_first_utm_source": {
+              "name": "f_string_8",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_first_utm_campaign",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_first_utm_campaign": {
+              "name": "f_string_9",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_first_utm_medium",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_first_utm_medium": {
+              "name": "f_string_10",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_first_utm_content",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_first_utm_content": {
+              "name": "f_string_11",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_first_utm_term",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_first_utm_term": {
+              "name": "f_string_12",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_first_utm_referer",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_first_utm_referer": {
+              "name": "f_string_13",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_converted_utm_source",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_converted_utm_source": {
+              "name": "f_string_14",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_converted_utm_campaign",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_converted_utm_campaign": {
+              "name": "f_string_15",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_converted_utm_medium",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_converted_utm_medium": {
+              "name": "f_string_16",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_converted_utm_content",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_converted_utm_content": {
+              "name": "f_string_17",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_converted_utm_term",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_converted_utm_term": {
+              "name": "f_string_18",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_converted_utm_referer",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_converted_utm_referer": {
+              "name": "f_string_19",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_converted_last_utm_source",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_converted_last_utm_source": {
+              "name": "f_string_20",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_converted_last_utm_campaign",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_converted_last_utm_campaign": {
+              "name": "f_string_21",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_converted_last_utm_medium",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_converted_last_utm_medium": {
+              "name": "f_string_22",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_converted_last_utm_content",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_converted_last_utm_content": {
+              "name": "f_string_23",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_converted_last_utm_term",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_converted_last_utm_term": {
+              "name": "f_string_24",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_converted_last_utm_referer",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_converted_last_utm_referer": {
+              "name": "f_string_25",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_last_utm_source",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_last_utm_source": {
+              "name": "f_string_26",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_last_utm_campaign",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_last_utm_campaign": {
+              "name": "f_string_27",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_last_utm_medium",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_last_utm_medium": {
+              "name": "f_string_28",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_last_utm_content",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_last_utm_content": {
+              "name": "f_string_29",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_last_utm_term",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_last_utm_term": {
+              "name": "f_string_30",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_last_utm_referer",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_last_utm_referer": {
+              "name": "f_string_31",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "first_source_ad_param",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "first_source_ad_param": {
+              "name": "f_string_32",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "first_source_ad_time",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "first_source_ad_time": {
+              "name": "f_date_4",
+              "type": "date",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "first_source_ad_param_0",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "first_source_ad_param_0": {
+              "name": "f_string_33",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "first_source_ad_param_1",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "first_source_ad_param_1": {
+              "name": "f_string_34",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "first_source_ad_param_2",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "first_source_ad_param_2": {
+              "name": "f_string_35",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "first_source_ad_param_3",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "first_source_ad_param_3": {
+              "name": "f_string_36",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "first_source_ad_param_4",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "first_source_ad_param_4": {
+              "name": "f_string_37",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "last_source_ad_param",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "last_source_ad_param": {
+              "name": "f_string_38",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "last_source_ad_time",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "last_source_ad_time": {
+              "name": "f_date_5",
+              "type": "date",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "last_source_ad_param_0",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "last_source_ad_param_0": {
+              "name": "f_string_39",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "last_source_ad_param_1",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "last_source_ad_param_1": {
+              "name": "f_string_40",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "last_source_ad_param_2",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "last_source_ad_param_2": {
+              "name": "f_string_41",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "last_source_ad_param_3",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "last_source_ad_param_3": {
+              "name": "f_string_42",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "last_source_ad_param_4",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "last_source_ad_param_4": {
+              "name": "f_string_43",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_source",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_source": {
+              "name": "f_string_44",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_campaign",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_campaign": {
+              "name": "f_string_45",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_medium",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_medium": {
+              "name": "f_string_46",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_content",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_content": {
+              "name": "f_string_47",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_term",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_term": {
+              "name": "f_string_48",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "utm_referer",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "utm_referer": {
+              "name": "f_string_49",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "eshop_id",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "eshop_id": {
+              "name": "f_string_50",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "_last_call_out_time",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "_last_call_out_time": {
+              "name": "f_date_6",
+              "type": "date",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "_last_call_in_time",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "_last_call_in_time": {
+              "name": "f_date_7",
+              "type": "date",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "_total_call_out",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "_total_call_out": {
+              "name": "f_double_1",
+              "type": "double",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "_total_call_in",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "_total_call_in": {
+              "name": "f_double_2",
+              "type": "double",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "_number_order",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "_number_order": {
+              "name": "f_double_3",
+              "type": "double",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "_order_value",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "_order_value": {
+              "name": "f_double_4",
+              "type": "double",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "_order_value_in_year",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "_order_value_in_year": {
+              "name": "f_double_5",
+              "type": "double",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "_last_order",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "_last_order": {
+              "name": "f_date_8",
+              "type": "date",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "_first_order",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "_first_order": {
+              "name": "f_date_9",
+              "type": "date",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "_total_order_data_item",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "_total_order_data_item": {
+              "name": "f_double_6",
+              "type": "double",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "tax_code",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "tax_code": {
+              "name": "f_string_51",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "ma_khach_hang",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "ma_khach_hang": {
+              "name": "f_string_52",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "is_duplicate",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "is_duplicate": {
+              "name": "f_string_53",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "_last_chat_link",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "_last_chat_link": {
+              "name": "f_string_54",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "_paid_value",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "_paid_value": {
+              "name": "f_double_7",
+              "type": "double",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "tiktok_id",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "tiktok_id": {
+              "name": "f_string_55",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "lazada_id",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "lazada_id": {
+              "name": "f_string_56",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "shopee_id",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "shopee_id": {
+              "name": "f_string_57",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "haravan_id",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "haravan_id": {
+              "name": "f_string_58",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "kiot_viet_id",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "kiot_viet_id": {
+              "name": "f_string_59",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "order_ship_address",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "order_ship_address": {
+              "name": "f_string_60",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "is_create_customer",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "is_create_customer": {
+              "name": "f_string_61",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "rd_fb_user_id",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "rd_fb_user_id": {
+              "name": "f_string_62",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "rd_leadgen_ad_id",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "rd_leadgen_ad_id": {
+              "name": "f_string_63",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "rd_full_name",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "rd_full_name": {
+              "name": "f_string_64",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "_number_event",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "_number_event": {
+              "name": "f_double_8",
+              "type": "double",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "_last_note_time",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "_last_note_time": {
+              "name": "f_date_10",
+              "type": "date",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "created_at",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "created_at": {
+              "name": "f_date_11",
+              "type": "date",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "created_at_system",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "created_at_system": {
+              "name": "f_date_12",
+              "type": "date",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "updated_at",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "updated_at": {
+              "name": "f_date_13",
+              "type": "date",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "_auto_id",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "_auto_id": {
+              "name": "f_long_3",
+              "type": "long",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "no_formula",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "no_formula": {
+              "name": "f_long_4",
+              "type": "long",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "_first_time_assign_sale",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "_first_time_assign_sale": {
+              "name": "f_date_14",
+              "type": "date",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "_last_time_assign_sale",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "_last_time_assign_sale": {
+              "name": "f_date_15",
+              "type": "date",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "_first_time_assign_main_sale",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "_first_time_assign_main_sale": {
+              "name": "f_date_16",
+              "type": "date",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "_last_time_assign_main_sale",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "_last_time_assign_main_sale": {
+              "name": "f_date_17",
+              "type": "date",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "dang_ky_lan_thu_may",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "dang_ky_lan_thu_may": {
+              "name": "f_double_9",
+              "type": "double",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "cong_ty_khac",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "cong_ty_khac": {
+              "name": "f_string_69",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "birthday",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "birthday": {
+              "name": "f_date_18",
+              "type": "date",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "chuc_vu",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "chuc_vu": {
+              "name": "f_string_70",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "facebook_id_fp",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "facebook_id_fp": {
+              "name": "f_string_71",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "facebook_sender_id",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "facebook_sender_id": {
+              "name": "f_string_72",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "ngay_dang_ky_gan_nhat",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "ngay_dang_ky_gan_nhat": {
+              "name": "f_date_19",
+              "type": "date",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "khong_tttt",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "khong_tttt": {
+              "name": "f_string_73",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "ghi_chu",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "ghi_chu": {
+              "name": "f_text_3",
+              "type": "text",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "rd_address",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "rd_address": {
+              "name": "f_string_74",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "rd_conversation_id",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "rd_conversation_id": {
+              "name": "f_string_75",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "rd_first_fb_message_time",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "rd_first_fb_message_time": {
+              "name": "f_date_20",
+              "type": "date",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "rd_first_name",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "rd_first_name": {
+              "name": "f_string_76",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "rd_gender",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "rd_gender": {
+              "name": "f_string_77",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "rd_last_assign_for",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "rd_last_assign_for": {
+              "name": "f_date_21",
+              "type": "date",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "rd_last_fb_message_messenger_time",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "rd_last_fb_message_messenger_time": {
+              "name": "f_date_22",
+              "type": "date",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "rd_last_message_time_old_user",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "rd_last_message_time_old_user": {
+              "name": "f_date_23",
+              "type": "date",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "rd_last_name",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "rd_last_name": {
+              "name": "f_string_78",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "rd_user_id",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "rd_user_id": {
+              "name": "f_string_79",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "rd_username",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "rd_username": {
+              "name": "f_string_80",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "ten_cong_ty_ca_nhan",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "ten_cong_ty_ca_nhan": {
+              "name": "f_string_87",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "so_luong",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "so_luong": {
+              "name": "f_double_10",
+              "type": "double",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "vi_tri_du_an",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "vi_tri_du_an": {
+              "name": "f_string_88",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "project_id",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "project_id": {
+              "name": "project_id",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "status",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "status": {
+              "name": "status",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "_id",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "_id": {
+              "name": "_id",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "_text",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "_text": {
+              "name": "_text",
+              "type": "text",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "gia_tien",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "gia_tien": {
+              "name": "f_double_11",
+              "type": "double",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "dia_chi",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "dia_chi": {
+              "name": "f_text_9",
+              "type": "text",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "__id",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "__id": {
+              "name": "f_string_89",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "truong_them_moi_text",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "truong_them_moi_text": {
+              "name": "f_string_94",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "_is_converted",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "_is_converted": {
+              "name": "f_long_5",
+              "type": "long",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "_is_synced_to_crm",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "_is_synced_to_crm": {
+              "name": "f_long_6",
+              "type": "long",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "ngay_thang",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "ngay_thang": {
+              "name": "f_date_27",
+              "type": "date",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "name",
+        "dataType": "normal",
+        "mappingFields": [
+          {
+            "name": {
+              "name": "f_text_11",
+              "type": "text",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "tinh_thanh",
+        "dataType": "object",
+        "mappingFields": [
+          {
+            "province": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "district": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "town": {
+              "name": "f_string_4",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "created_by",
+        "dataType": "object",
+        "mappingFields": [
+          {
+            "id": {
+              "name": "f_string_65",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "sale_id": {
+              "name": "f_string_66",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "email": {
+              "name": "f_string_67",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "name": {
+              "name": "f_string_68",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "tinh",
+        "dataType": "object",
+        "mappingFields": [
+          {
+            "province": {
+              "name": "f_string_84",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "district": {
+              "name": "f_string_85",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "town": {
+              "name": "f_string_86",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "tinh_thanh_pho",
+        "dataType": "object",
+        "mappingFields": [
+          {
+            "province": {
+              "name": "f_string_101",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "district": {
+              "name": "f_string_102",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "town": {
+              "name": "f_string_103",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": ""
+      },
+      {
+        "rootKey": "0",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "label": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "emails",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "tags": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "hash": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "encrypt": {
+              "name": "f_string_4",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "encrypt_vccorp": {
+              "name": "f_string_5",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "domain": {
+              "name": "f_string_6",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "hide": {
+              "name": "f_string_7",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "encrypt_aes": {
+              "name": "f_string_8",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "status": {
+              "name": "f_string_9",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "customer_referral",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "id": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "phones",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "tags": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "hash": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "encrypt": {
+              "name": "f_string_4",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "encrypt_vccorp": {
+              "name": "f_string_5",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "hide": {
+              "name": "f_string_6",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "encrypt_aes": {
+              "name": "f_string_7",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "status": {
+              "name": "f_string_8",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "linking_fanpage",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "fanpage_name": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "sender_id": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "fanpage_id": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "posts",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "id": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "post_link": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "fanpage_id": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "fanpage_name": {
+              "name": "f_string_4",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "ads",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "id": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "sender_id": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "fanpage_id": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "fanpage_name": {
+              "name": "f_string_4",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "forms",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "id": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "name": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "fanpage_id": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "fanpage_name": {
+              "name": "f_string_4",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "customer_type",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "label": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "owner",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "email": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "name": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "tags": {
+              "name": "f_string_4",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "customer_status",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "label": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "gioi_tinh",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "label": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "client_id",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "label": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "cookies",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "domain": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "partner": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "payload": {
+              "name": "f_string_4",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "note": {
+              "name": "f_string_5",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "rd_attributes",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "key": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "value": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "label": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "rd_tags",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "label": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "process",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "kill": {
+              "name": "f_boolean_1",
+              "type": "boolean",
+              "status": "active"
+            }
+          },
+          {
+            "kill_at": {
+              "name": "f_date_1",
+              "type": "date",
+              "status": "active"
+            }
+          },
+          {
+            "updated_at": {
+              "name": "f_date_2",
+              "type": "date",
+              "status": "active"
+            }
+          },
+          {
+            "label": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "account",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "id": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "_utm_all",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "utm_source": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "utm_campaign": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "utm_medium": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "utm_content": {
+              "name": "f_string_4",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "utm_term": {
+              "name": "f_string_5",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "utm_type": {
+              "name": "f_string_6",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "_recent_sale",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "email": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "name": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "tags": {
+              "name": "f_string_4",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "product",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "id": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "customer_related",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "id": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "facebook_id",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "label": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "gclid",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "label": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "buyer",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "id": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "files",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "link": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "token": {
+              "name": "f_string_4",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "source": {
+              "name": "f_string_5",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "extension": {
+              "name": "f_string_6",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "encrypt": {
+              "name": "f_boolean_1",
+              "type": "boolean",
+              "status": "active"
+            }
+          },
+          {
+            "field_encrypt": {
+              "name": "f_string_7",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "payload",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "id": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "table": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "field": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "_related_department",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "id": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "__form_view_picked",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "label": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "cong_ty_ca_nhan",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "label": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "company",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "id": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "phu_trach_thi_truong",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "label": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "moi_111",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "label": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "hang_muc_san_pham",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "id": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "quy_trinh_test",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "kill": {
+              "name": "f_boolean_1",
+              "type": "boolean",
+              "status": "active"
+            }
+          },
+          {
+            "kill_at": {
+              "name": "f_date_1",
+              "type": "date",
+              "status": "active"
+            }
+          },
+          {
+            "updated_at": {
+              "name": "f_date_2",
+              "type": "date",
+              "status": "active"
+            }
+          },
+          {
+            "label": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "file_433",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "link": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "token": {
+              "name": "f_string_4",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "source": {
+              "name": "f_string_5",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "extension": {
+              "name": "f_string_6",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "encrypt": {
+              "name": "f_boolean_1",
+              "type": "boolean",
+              "status": "active"
+            }
+          },
+          {
+            "field_encrypt": {
+              "name": "f_string_7",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "rd_addresses",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "label": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "them_moi",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "label": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "ten_nguoi_lien_lac_chinh",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "id": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "tag_phan_loai_dang_ky",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "label": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "truong_chon_nhieu",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "label": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "san_pham",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "id": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "checkbox",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "label": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "truong_list",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "label": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "sale_team",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "id": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "contact_list",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "vai_tro_chuc_vu": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "value": {
+              "name": "f_text_1",
+              "type": "text",
+              "status": "active"
+            }
+          },
+          {
+            "phone": {
+              "name": "f_text_2",
+              "type": "text",
+              "status": "active"
+            }
+          },
+          {
+            "email": {
+              "name": "f_text_3",
+              "type": "text",
+              "status": "active"
+            }
+          },
+          {
+            "note": {
+              "name": "f_text_4",
+              "type": "text",
+              "status": "active"
+            }
+          },
+          {
+            "tags": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "file",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "link": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "token": {
+              "name": "f_string_4",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "source": {
+              "name": "f_string_5",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "extension": {
+              "name": "f_string_6",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "encrypt": {
+              "name": "f_boolean_1",
+              "type": "boolean",
+              "status": "active"
+            }
+          },
+          {
+            "field_encrypt": {
+              "name": "f_string_7",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "source",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "thoi_gian": {
+              "name": "f_date_1",
+              "type": "date",
+              "status": "active"
+            }
+          },
+          {
+            "ghi_chu": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "survey_form": {
+              "name": "f_string_6",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "survey_form_detail": {
+              "name": "f_string_7",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "group_source": {
+              "name": "f_string_8",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "value": {
+              "name": "f_string_10",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "sale",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "email": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "name": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "tags": {
+              "name": "f_string_4",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "nhieu_cap",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "label": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "chon_mot",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "label": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "chon_nhieu",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "label": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "tags",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "value": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "label": {
+              "name": "f_string_2",
+              "type": "string",
+              "status": "active"
+            }
+          },
+          {
+            "id": {
+              "name": "f_string_3",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      },
+      {
+        "rootKey": "lien_ket",
+        "dataType": "field-array",
+        "mappingFields": [
+          {
+            "id": {
+              "name": "f_string_1",
+              "type": "string",
+              "status": "active"
+            }
+          }
+        ],
+        "tableAttribute": "data_customer_attribute"
+      }
+    ]
+  }
+]
