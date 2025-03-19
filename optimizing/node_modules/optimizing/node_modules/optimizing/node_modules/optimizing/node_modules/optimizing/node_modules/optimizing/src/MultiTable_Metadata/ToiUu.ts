@@ -155,7 +155,7 @@ async function main() {
         const rs = await getDataMappingMultiTablesV2(projectId, tables);
 
         const outputFilePath = "src/MultiTable_Metadata/output.txt";
-        fs.writeFileSync(outputFilePath, JSON.stringify(rs, null, 2), "utf8");
+       // fs.writeFileSync(outputFilePath, JSON.stringify(rs, null, 2), "utf8");
         console.log(`✅ Kết quả đã được ghi vào tệp: ${outputFilePath}`);
     } catch (error) {
         console.error("❌ Lỗi khi chạy hàm:", error);
