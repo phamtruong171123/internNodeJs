@@ -1,0 +1,744 @@
+[
+  {
+    "field_normal": {
+      "score": {
+        "name": "f_double_1",
+        "type": "double",
+        "status": "active"
+      },
+      "rating": {
+        "name": "f_double_2",
+        "type": "double",
+        "status": "active"
+      },
+      "note": {
+        "name": "f_text_2",
+        "type": "text",
+        "status": "active"
+      },
+      "status_deal_campaign": {
+        "name": "f_boolean_1",
+        "type": "boolean",
+        "status": "active"
+      },
+      "_last_chat_link": {
+        "name": "f_string_2",
+        "type": "string",
+        "status": "active"
+      },
+      "_last_note_time": {
+        "name": "f_date_1",
+        "type": "date",
+        "status": "active"
+      },
+      "created_at_system": {
+        "name": "f_date_3",
+        "type": "date",
+        "status": "active"
+      },
+      "updated_at": {
+        "name": "f_date_4",
+        "type": "date",
+        "status": "active"
+      },
+      "__id": {
+        "name": "__id",
+        "type": "string",
+        "status": "active"
+      },
+      "_auto_id": {
+        "name": "f_long_1",
+        "type": "long",
+        "status": "active"
+      },
+      "no_formula": {
+        "name": "f_long_2",
+        "type": "long",
+        "status": "active"
+      },
+      "_first_time_assign_sale": {
+        "name": "f_date_5",
+        "type": "date",
+        "status": "active"
+      },
+      "_last_time_assign_sale": {
+        "name": "f_date_6",
+        "type": "date",
+        "status": "active"
+      },
+      "_first_time_assign_main_sale": {
+        "name": "f_date_7",
+        "type": "date",
+        "status": "active"
+      },
+      "_last_time_assign_main_sale": {
+        "name": "f_date_8",
+        "type": "date",
+        "status": "active"
+      },
+      "project_id": {
+        "name": "project_id",
+        "type": "string",
+        "status": "active"
+      },
+      "status": {
+        "name": "status",
+        "type": "string",
+        "status": "active"
+      },
+      "_id": {
+        "name": "_id",
+        "type": "string",
+        "status": "active"
+      },
+      "_text": {
+        "name": "_text",
+        "type": "text",
+        "status": "active"
+      },
+      "notecs": {
+        "name": "f_text_4",
+        "type": "text",
+        "status": "active"
+      },
+      "ghichulaythongtin": {
+        "name": "f_text_5",
+        "type": "text",
+        "status": "active"
+      },
+      "deleted$lichlaythongtin": {
+        "name": "f_date_63",
+        "type": "date",
+        "status": "deleted"
+      },
+      "deleted$ghichubuoituvan": {
+        "name": "f_text_33",
+        "type": "text",
+        "status": "deleted"
+      },
+      "deleted$amount": {
+        "name": "f_double_9",
+        "type": "double",
+        "status": "deleted"
+      },
+      "remain_payment": {
+        "name": "f_double_8",
+        "type": "double",
+        "status": "active"
+      },
+      "expired_date": {
+        "name": "f_date_17",
+        "type": "date",
+        "status": "active"
+      },
+      "ngay_khai_giang": {
+        "name": "f_date_18",
+        "type": "date",
+        "status": "active"
+      },
+      "ngay_be_giang": {
+        "name": "f_date_19",
+        "type": "date",
+        "status": "active"
+      },
+      "ghi_chu": {
+        "name": "f_text_11",
+        "type": "text",
+        "status": "active"
+      },
+      "deleted$submit_time": {
+        "name": "f_date_22",
+        "type": "date",
+        "status": "deleted"
+      },
+      "deleted$created_at": {
+        "name": "f_date_24",
+        "type": "date",
+        "status": "deleted"
+      },
+      "amount": {
+        "name": "f_double_10",
+        "type": "double",
+        "status": "active"
+      },
+      "deleted$customer": {
+        "name": "customer",
+        "type": "string",
+        "status": "deleted"
+      },
+      "deleted$lidodongcase": {
+        "name": "f_text_18",
+        "type": "text",
+        "status": "deleted"
+      },
+      "deleted$lichhentuvan": {
+        "name": "f_date_64",
+        "type": "date",
+        "status": "deleted"
+      },
+      "deleted$diadiem": {
+        "name": "f_text_14",
+        "type": "text",
+        "status": "deleted"
+      },
+      "deleted$ly_do_khong_thanh_toan": {
+        "name": "f_text_27",
+        "type": "text",
+        "status": "deleted"
+      },
+      "diadiem": {
+        "name": "f_text_19",
+        "type": "text",
+        "status": "active"
+      },
+      "deleted$ngay_thuc_thi_dich_vu": {
+        "name": "f_date_30",
+        "type": "date",
+        "status": "deleted"
+      },
+      "deleted$khoa_hien_tai": {
+        "name": "f_string_8",
+        "type": "string",
+        "status": "deleted"
+      },
+      "deleted$gia_ban": {
+        "name": "f_double_11",
+        "type": "double",
+        "status": "deleted"
+      },
+      "deleted$payment_date": {
+        "name": "f_date_75",
+        "type": "date",
+        "status": "deleted"
+      },
+      "deleted$thoi_gian_hoan_thanh_don_hang": {
+        "name": "f_date_34",
+        "type": "date",
+        "status": "deleted"
+      },
+      "created_at": {
+        "name": "f_date_35",
+        "type": "date",
+        "status": "active"
+      },
+      "thoi_gian_hoan_thanh_don_hang": {
+        "name": "f_date_36",
+        "type": "date",
+        "status": "active"
+      },
+      "deleted$price": {
+        "name": "f_double_12",
+        "type": "double",
+        "status": "deleted"
+      },
+      "deleted$khoa_dau_tien": {
+        "name": "f_string_9",
+        "type": "string",
+        "status": "deleted"
+      },
+      "ngay_thanh_toan_dot_2": {
+        "name": "f_date_39",
+        "type": "date",
+        "status": "active"
+      },
+      "deleted$phi_thanh_toan_dot_1": {
+        "name": "f_double_21",
+        "type": "double",
+        "status": "deleted"
+      },
+      "deleted$phi_thanh_toan_dot_2": {
+        "name": "f_double_14",
+        "type": "double",
+        "status": "deleted"
+      },
+      "phi_thanh_toan_dot_2": {
+        "name": "f_double_17",
+        "type": "double",
+        "status": "active"
+      },
+      "deleted$tong_phi": {
+        "name": "f_double_15",
+        "type": "double",
+        "status": "deleted"
+      },
+      "tong_phi": {
+        "name": "f_double_18",
+        "type": "double",
+        "status": "active"
+      },
+      "deleted$ghi_chu_lich_review_6_thang": {
+        "name": "f_text_21",
+        "type": "text",
+        "status": "deleted"
+      },
+      "ghi_chu_review_truoc_ket_thuc_hop_dong_tvtd": {
+        "name": "f_text_23",
+        "type": "text",
+        "status": "active"
+      },
+      "li_do_khong_tai_tuc_tvtd": {
+        "name": "f_text_24",
+        "type": "text",
+        "status": "active"
+      },
+      "deleted$lich_hen_review_6_thang": {
+        "name": "f_date_41",
+        "type": "date",
+        "status": "deleted"
+      },
+      "deleted$lich_review_6_thang_tvtd": {
+        "name": "f_date_48",
+        "type": "date",
+        "status": "deleted"
+      },
+      "deleted$ghi_chu_lich_review_6_thang_tvtd": {
+        "name": "f_text_22",
+        "type": "text",
+        "status": "deleted"
+      },
+      "ghi_chu_lich_review_6_thang_tvtd": {
+        "name": "f_text_25",
+        "type": "text",
+        "status": "active"
+      },
+      "deleted$lich_review_12_thang_tvtd": {
+        "name": "f_date_49",
+        "type": "date",
+        "status": "deleted"
+      },
+      "ngay_ky_hop_dong_tvtd": {
+        "name": "f_date_44",
+        "type": "date",
+        "status": "active"
+      },
+      "deleted$ngay_bat_dau_hop_dong": {
+        "name": "f_date_37",
+        "type": "date",
+        "status": "deleted"
+      },
+      "ngay_bat_dau_hop_dong": {
+        "name": "f_date_45",
+        "type": "date",
+        "status": "active"
+      },
+      "deleted$ngay_ket_thuc_hop_dong": {
+        "name": "f_date_40",
+        "type": "date",
+        "status": "deleted"
+      },
+      "ngay_ket_thuc_hop_dong": {
+        "name": "f_date_46",
+        "type": "date",
+        "status": "active"
+      },
+      "deleted$ngaygiahan": {
+        "name": "f_date_77",
+        "type": "date",
+        "status": "deleted"
+      },
+      "deleted$ngayhethan": {
+        "name": "f_date_78",
+        "type": "date",
+        "status": "deleted"
+      },
+      "khoa_hoc_lai": {
+        "name": "f_string_11",
+        "type": "string",
+        "status": "active"
+      },
+      "deleted$khoa_da_bao_luu": {
+        "name": "f_string_10",
+        "type": "string",
+        "status": "deleted"
+      },
+      "khoa_da_bao_luu": {
+        "name": "f_string_12",
+        "type": "string",
+        "status": "active"
+      },
+      "khoa_hien_tai": {
+        "name": "f_string_13",
+        "type": "string",
+        "status": "active"
+      },
+      "deleted$_tvtd_lich_lay_thong_tin": {
+        "name": "f_date_52",
+        "type": "date",
+        "status": "deleted"
+      },
+      "deleted$_tvtd_lich_hen": {
+        "name": "f_date_54",
+        "type": "date",
+        "status": "deleted"
+      },
+      "deleted$tvtd_lichhentuvan": {
+        "name": "f_date_58",
+        "type": "date",
+        "status": "deleted"
+      },
+      "price": {
+        "name": "f_double_19",
+        "type": "double",
+        "status": "active"
+      },
+      "deleted$promote": {
+        "name": "f_string_19",
+        "type": "string",
+        "status": "deleted"
+      },
+      "deleted$nguon": {
+        "name": "f_text_3",
+        "type": "text",
+        "status": "deleted"
+      },
+      "nguon": {
+        "name": "f_text_26",
+        "type": "text",
+        "status": "active"
+      },
+      "deleted$name": {
+        "name": "f_text_28",
+        "type": "text",
+        "status": "deleted"
+      },
+      "deleted$tvtd_lichlaythongtin": {
+        "name": "f_date_60",
+        "type": "date",
+        "status": "deleted"
+      },
+      "lichlaythongtin": {
+        "name": "f_date_65",
+        "type": "date",
+        "status": "active"
+      },
+      "lichhentuvan": {
+        "name": "f_date_66",
+        "type": "date",
+        "status": "active"
+      },
+      "deleted$uu_dai": {
+        "name": "f_string_16",
+        "type": "string",
+        "status": "deleted"
+      },
+      "deleted$_tvtd_dia_diem_link_hop": {
+        "name": "f_text_31",
+        "type": "text",
+        "status": "deleted"
+      },
+      "_tvtd_dia_diem_link_hop": {
+        "name": "f_text_32",
+        "type": "text",
+        "status": "active"
+      },
+      "name": {
+        "name": "f_text_34",
+        "type": "text",
+        "status": "active"
+      },
+      "deleted$link_dinh_vi": {
+        "name": "f_string_27",
+        "type": "string",
+        "status": "deleted"
+      },
+      "deleted$discount": {
+        "name": "f_double_5",
+        "type": "double",
+        "status": "deleted"
+      },
+      "discount": {
+        "name": "f_double_20",
+        "type": "double",
+        "status": "active"
+      },
+      "promote": {
+        "name": "f_string_22",
+        "type": "string",
+        "status": "active"
+      },
+      "tvtd_lichlaythongtin": {
+        "name": "f_date_67",
+        "type": "date",
+        "status": "active"
+      },
+      "ghichubuoituvan": {
+        "name": "f_text_35",
+        "type": "text",
+        "status": "active"
+      },
+      "tvtd_lichhentuvan": {
+        "name": "f_date_68",
+        "type": "date",
+        "status": "active"
+      },
+      "lich_review_6_thang_tvtd": {
+        "name": "f_date_69",
+        "type": "date",
+        "status": "active"
+      },
+      "lich_review_12_thang_tvtd": {
+        "name": "f_date_70",
+        "type": "date",
+        "status": "active"
+      },
+      "deleted$loai_san_pham": {
+        "name": "f_string_26",
+        "type": "string",
+        "status": "deleted"
+      },
+      "deleted$li_do_hoc_lai": {
+        "name": "f_text_12",
+        "type": "text",
+        "status": "deleted"
+      },
+      "li_do_hoc_lai": {
+        "name": "f_text_37",
+        "type": "text",
+        "status": "active"
+      },
+      "ly_do_khong_thanh_toan": {
+        "name": "f_text_38",
+        "type": "text",
+        "status": "active"
+      },
+      "lidodongcase": {
+        "name": "f_text_39",
+        "type": "text",
+        "status": "active"
+      },
+      "deleted$ngay_thanh_toan_dot_1": {
+        "name": "f_date_38",
+        "type": "date",
+        "status": "deleted"
+      },
+      "ngay_thanh_toan_dot_1": {
+        "name": "f_date_74",
+        "type": "date",
+        "status": "active"
+      },
+      "phi_thanh_toan_dot_1": {
+        "name": "f_double_22",
+        "type": "double",
+        "status": "active"
+      },
+      "so_hoa_don_vat": {
+        "name": "f_text_40",
+        "type": "text",
+        "status": "active"
+      },
+      "payment_date": {
+        "name": "f_date_76",
+        "type": "date",
+        "status": "active"
+      },
+      "deleted$_bds_thong_tin_can_bo_sung": {
+        "name": "f_text_46",
+        "type": "text",
+        "status": "deleted"
+      },
+      "customer": {
+        "name": "customer",
+        "type": "string",
+        "status": "active"
+      },
+      "deleted$pp_code": {
+        "name": "f_string_28",
+        "type": "string",
+        "status": "deleted"
+      },
+      "deleted$fp_code": {
+        "name": "f_string_29",
+        "type": "string",
+        "status": "deleted"
+      },
+      "ngaygiahan": {
+        "name": "f_date_79",
+        "type": "date",
+        "status": "active"
+      },
+      "ngayhethan": {
+        "name": "f_date_80",
+        "type": "date",
+        "status": "active"
+      },
+      "dia_diem_link_hop": {
+        "name": "f_text_42",
+        "type": "text",
+        "status": "active"
+      },
+      "deleted$dia_diem_link_hop_12_thang": {
+        "name": "f_text_43",
+        "type": "text",
+        "status": "deleted"
+      },
+      "dia_diem_link_hop_12_thang": {
+        "name": "f_text_44",
+        "type": "text",
+        "status": "active"
+      },
+      "deleted$code": {
+        "name": "f_string_31",
+        "type": "string",
+        "status": "deleted"
+      },
+      "link_dinh_vi": {
+        "name": "f_string_32",
+        "type": "string",
+        "status": "active"
+      },
+      "deleted$bds_mo_ta_cu_the": {
+        "name": "f_text_45",
+        "type": "text",
+        "status": "deleted"
+      },
+      "bds_mo_ta_cu_the": {
+        "name": "f_text_47",
+        "type": "text",
+        "status": "active"
+      },
+      "_bds_thong_tin_can_bo_sung": {
+        "name": "f_text_48",
+        "type": "text",
+        "status": "active"
+      },
+      "code": {
+        "name": "f_string_35",
+        "type": "string",
+        "status": "active"
+      },
+      "deleted$agent_name": {
+        "name": "f_string_30",
+        "type": "string",
+        "status": "deleted"
+      },
+      "agent_name": {
+        "name": "f_string_36",
+        "type": "string",
+        "status": "active"
+      },
+      "fp_code": {
+        "name": "f_string_37",
+        "type": "string",
+        "status": "active"
+      },
+      "deleted$fp_name": {
+        "name": "f_string_33",
+        "type": "string",
+        "status": "deleted"
+      },
+      "fp_name": {
+        "name": "f_string_38",
+        "type": "string",
+        "status": "active"
+      },
+      "pp_code": {
+        "name": "f_string_39",
+        "type": "string",
+        "status": "active"
+      },
+      "deleted$pp_name": {
+        "name": "f_string_34",
+        "type": "string",
+        "status": "deleted"
+      },
+      "pp_name": {
+        "name": "f_string_40",
+        "type": "string",
+        "status": "active"
+      },
+      "deleted$kh_hen_cung_cap_thong_tin": {
+        "name": "f_date_81",
+        "type": "date",
+        "status": "deleted"
+      },
+      "deleted$kh_hen_bo_sung_thong_tin": {
+        "name": "f_date_82",
+        "type": "date",
+        "status": "deleted"
+      },
+      "deleted$kh_hen_bo_sung_tt": {
+        "name": "f_date_83",
+        "type": "date",
+        "status": "deleted"
+      },
+      "kh_hen_bo_sung_tt": {
+        "name": "f_date_85",
+        "type": "date",
+        "status": "active"
+      },
+      "deleted$kh_hen_cung_cap_tt": {
+        "name": "f_date_84",
+        "type": "date",
+        "status": "deleted"
+      },
+      "kh_hen_cung_cap_tt": {
+        "name": "f_date_86",
+        "type": "date",
+        "status": "active"
+      },
+      "deleted$_tddmdt_link_zoom": {
+        "name": "f_string_44",
+        "type": "string",
+        "status": "deleted"
+      },
+      "deleted$ghichudeal": {
+        "name": "f_text_49",
+        "type": "text",
+        "status": "deleted"
+      },
+      "ghichudeal": {
+        "name": "f_text_50",
+        "type": "text",
+        "status": "active"
+      },
+      "deleted$_tddmdt_lich_hen_tu_van": {
+        "name": "f_date_89",
+        "type": "date",
+        "status": "deleted"
+      },
+      "_tddmdt_lich_hen_tu_van": {
+        "name": "f_date_90",
+        "type": "date",
+        "status": "active"
+      },
+      "_tddmdt_link_zoom": {
+        "name": "f_string_45",
+        "type": "string",
+        "status": "active"
+      },
+      "mo_ta_tai_san": {
+        "name": "f_text_51",
+        "type": "text",
+        "status": "active"
+      }
+    },
+    "field_object": {
+      "created_by": {
+        "field": {
+          "id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          },
+          "sale_id": {
+            "name": "f_string_4",
+            "type": "string",
+            "status": "active"
+          },
+          "email": {
+            "name": "f_string_5",
+            "type": "string",
+            "status": "active"
+          },
+          "name": {
+            "name": "f_string_6",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      }
+    },
+    "project_id": "675f9498372a86002433b0b0"
+  }
+]

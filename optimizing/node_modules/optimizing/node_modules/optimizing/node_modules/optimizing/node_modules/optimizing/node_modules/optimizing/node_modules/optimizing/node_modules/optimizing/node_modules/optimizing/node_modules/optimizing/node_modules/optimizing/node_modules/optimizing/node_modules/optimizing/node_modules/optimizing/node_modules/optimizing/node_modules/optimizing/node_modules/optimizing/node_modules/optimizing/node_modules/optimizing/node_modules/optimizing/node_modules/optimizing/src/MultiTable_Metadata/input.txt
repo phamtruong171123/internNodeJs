@@ -1,0 +1,2268 @@
+[
+  {
+    "_id": {"$oid": "67d394b6475c593fad709976"},
+    "field_array": {
+      "0": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "label": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "emails": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "tags": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "hash": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          },
+          "encrypt": {
+            "name": "f_string_4",
+            "type": "string",
+            "status": "active"
+          },
+          "encrypt_vccorp": {
+            "name": "f_string_5",
+            "type": "string",
+            "status": "active"
+          },
+          "domain": {
+            "name": "f_string_6",
+            "type": "string",
+            "status": "active"
+          },
+          "hide": {
+            "name": "f_string_7",
+            "type": "string",
+            "status": "active"
+          },
+          "encrypt_aes": {
+            "name": "f_string_8",
+            "type": "string",
+            "status": "active"
+          },
+          "status": {
+            "name": "f_string_9",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "customer_referral": {
+        "table": "data_customer_attribute",
+        "field": {
+          "id": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "phones": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "tags": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "hash": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          },
+          "encrypt": {
+            "name": "f_string_4",
+            "type": "string",
+            "status": "active"
+          },
+          "encrypt_vccorp": {
+            "name": "f_string_5",
+            "type": "string",
+            "status": "active"
+          },
+          "hide": {
+            "name": "f_string_6",
+            "type": "string",
+            "status": "active"
+          },
+          "encrypt_aes": {
+            "name": "f_string_7",
+            "type": "string",
+            "status": "active"
+          },
+          "status": {
+            "name": "f_string_8",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "linking_fanpage": {
+        "table": "data_customer_attribute",
+        "field": {
+          "fanpage_name": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "sender_id": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "fanpage_id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "posts": {
+        "table": "data_customer_attribute",
+        "field": {
+          "id": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "post_link": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "fanpage_id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          },
+          "fanpage_name": {
+            "name": "f_string_4",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "ads": {
+        "table": "data_customer_attribute",
+        "field": {
+          "id": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "sender_id": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "fanpage_id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          },
+          "fanpage_name": {
+            "name": "f_string_4",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "forms": {
+        "table": "data_customer_attribute",
+        "field": {
+          "id": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "name": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "fanpage_id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          },
+          "fanpage_name": {
+            "name": "f_string_4",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "customer_type": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "label": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "owner": {
+        "table": "data_customer_attribute",
+        "field": {
+          "email": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "name": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          },
+          "tags": {
+            "name": "f_string_4",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "customer_status": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "label": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "gioi_tinh": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "label": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "client_id": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "label": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "cookies": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "domain": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "partner": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          },
+          "payload": {
+            "name": "f_string_4",
+            "type": "string",
+            "status": "active"
+          },
+          "note": {
+            "name": "f_string_5",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "rd_attributes": {
+        "table": "data_customer_attribute",
+        "field": {
+          "key": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "value": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "label": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "rd_tags": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "label": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "process": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "kill": {
+            "name": "f_boolean_1",
+            "type": "boolean",
+            "status": "active"
+          },
+          "kill_at": {
+            "name": "f_date_1",
+            "type": "date",
+            "status": "active"
+          },
+          "updated_at": {
+            "name": "f_date_2",
+            "type": "date",
+            "status": "active"
+          },
+          "label": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "account": {
+        "table": "data_customer_attribute",
+        "field": {
+          "id": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "_utm_all": {
+        "table": "data_customer_attribute",
+        "field": {
+          "utm_source": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "utm_campaign": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "utm_medium": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          },
+          "utm_content": {
+            "name": "f_string_4",
+            "type": "string",
+            "status": "active"
+          },
+          "utm_term": {
+            "name": "f_string_5",
+            "type": "string",
+            "status": "active"
+          },
+          "utm_type": {
+            "name": "f_string_6",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "_recent_sale": {
+        "table": "data_customer_attribute",
+        "field": {
+          "email": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "name": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          },
+          "tags": {
+            "name": "f_string_4",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "product": {
+        "table": "data_customer_attribute",
+        "field": {
+          "id": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "customer_related": {
+        "table": "data_customer_attribute",
+        "field": {
+          "id": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "facebook_id": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "label": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "gclid": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "label": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "buyer": {
+        "table": "data_customer_attribute",
+        "field": {
+          "id": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "files": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "link": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          },
+          "token": {
+            "name": "f_string_4",
+            "type": "string",
+            "status": "active"
+          },
+          "source": {
+            "name": "f_string_5",
+            "type": "string",
+            "status": "active"
+          },
+          "extension": {
+            "name": "f_string_6",
+            "type": "string",
+            "status": "active"
+          },
+          "encrypt": {
+            "name": "f_boolean_1",
+            "type": "boolean",
+            "status": "active"
+          },
+          "field_encrypt": {
+            "name": "f_string_7",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "payload": {
+        "table": "data_customer_attribute",
+        "field": {
+          "id": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "table": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "field": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "_related_department": {
+        "table": "data_customer_attribute",
+        "field": {
+          "id": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "__form_view_picked": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "label": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "cong_ty_ca_nhan": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "label": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "company": {
+        "table": "data_customer_attribute",
+        "field": {
+          "id": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "phu_trach_thi_truong": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "label": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "moi_111": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "label": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "hang_muc_san_pham": {
+        "table": "data_customer_attribute",
+        "field": {
+          "id": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "quy_trinh_test": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "kill": {
+            "name": "f_boolean_1",
+            "type": "boolean",
+            "status": "active"
+          },
+          "kill_at": {
+            "name": "f_date_1",
+            "type": "date",
+            "status": "active"
+          },
+          "updated_at": {
+            "name": "f_date_2",
+            "type": "date",
+            "status": "active"
+          },
+          "label": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "file_433": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "link": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          },
+          "token": {
+            "name": "f_string_4",
+            "type": "string",
+            "status": "active"
+          },
+          "source": {
+            "name": "f_string_5",
+            "type": "string",
+            "status": "active"
+          },
+          "extension": {
+            "name": "f_string_6",
+            "type": "string",
+            "status": "active"
+          },
+          "encrypt": {
+            "name": "f_boolean_1",
+            "type": "boolean",
+            "status": "active"
+          },
+          "field_encrypt": {
+            "name": "f_string_7",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "rd_addresses": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "label": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "them_moi": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "label": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "ten_nguoi_lien_lac_chinh": {
+        "table": "data_customer_attribute",
+        "field": {
+          "id": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "tag_phan_loai_dang_ky": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "label": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "truong_chon_nhieu": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "label": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "san_pham": {
+        "table": "data_customer_attribute",
+        "field": {
+          "id": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "deleted$lien_ket": {
+        "table": "data_customer_attribute",
+        "field": {
+          "deleted$id": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "deleted"
+          }
+        },
+        "status": "deleted"
+      },
+      "checkbox": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "label": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "deleted$truong_list": {
+        "table": "data_customer_attribute",
+        "field": {
+        },
+        "status": "deleted"
+      },
+      "truong_list": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "label": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "deleted$sale_team": {
+        "table": "data_customer_attribute",
+        "field": {
+          "deleted$id": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "deleted"
+          }
+        },
+        "status": "deleted"
+      },
+      "sale_team": {
+        "table": "data_customer_attribute",
+        "field": {
+          "id": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "deleted$sale": {
+        "table": "data_customer_attribute",
+        "field": {
+          "deleted$email": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "deleted"
+          },
+          "deleted$id": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "deleted"
+          },
+          "deleted$name": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "deleted"
+          },
+          "deleted$tags": {
+            "name": "f_string_4",
+            "type": "string",
+            "status": "deleted"
+          }
+        },
+        "status": "deleted"
+      },
+      "deleted$contact_list": {
+        "table": "data_customer_attribute",
+        "field": {
+          "deleted$vai_tro_chuc_vu": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "deleted"
+          },
+          "deleted$value": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "deleted"
+          },
+          "deleted$phone": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "deleted"
+          },
+          "deleted$email": {
+            "name": "f_string_4",
+            "type": "string",
+            "status": "deleted"
+          },
+          "deleted$note": {
+            "name": "f_string_5",
+            "type": "string",
+            "status": "deleted"
+          },
+          "deleted$tags": {
+            "name": "f_string_6",
+            "type": "string",
+            "status": "deleted"
+          }
+        },
+        "status": "deleted"
+      },
+      "contact_list": {
+        "table": "data_customer_attribute",
+        "field": {
+          "vai_tro_chuc_vu": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "value": {
+            "name": "f_text_1",
+            "type": "text",
+            "status": "active"
+          },
+          "phone": {
+            "name": "f_text_2",
+            "type": "text",
+            "status": "active"
+          },
+          "email": {
+            "name": "f_text_3",
+            "type": "text",
+            "status": "active"
+          },
+          "note": {
+            "name": "f_text_4",
+            "type": "text",
+            "status": "active"
+          },
+          "tags": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "deleted$file": {
+        "table": "data_customer_attribute",
+        "field": {
+          "deleted$value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "deleted"
+          },
+          "deleted$link": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "deleted"
+          },
+          "deleted$id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "deleted"
+          },
+          "deleted$token": {
+            "name": "f_string_4",
+            "type": "string",
+            "status": "deleted"
+          },
+          "deleted$source": {
+            "name": "f_string_5",
+            "type": "string",
+            "status": "deleted"
+          },
+          "deleted$extension": {
+            "name": "f_string_6",
+            "type": "string",
+            "status": "deleted"
+          },
+          "deleted$encrypt": {
+            "name": "f_boolean_1",
+            "type": "boolean",
+            "status": "deleted"
+          },
+          "deleted$field_encrypt": {
+            "name": "f_string_7",
+            "type": "string",
+            "status": "deleted"
+          }
+        },
+        "status": "deleted"
+      },
+      "file": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "link": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          },
+          "token": {
+            "name": "f_string_4",
+            "type": "string",
+            "status": "active"
+          },
+          "source": {
+            "name": "f_string_5",
+            "type": "string",
+            "status": "active"
+          },
+          "extension": {
+            "name": "f_string_6",
+            "type": "string",
+            "status": "active"
+          },
+          "encrypt": {
+            "name": "f_boolean_1",
+            "type": "boolean",
+            "status": "active"
+          },
+          "field_encrypt": {
+            "name": "f_string_7",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "source": {
+        "table": "data_customer_attribute",
+        "field": {
+          "deleted$value": {
+            "name": "f_string_9",
+            "type": "string",
+            "status": "deleted"
+          },
+          "thoi_gian": {
+            "name": "f_date_1",
+            "type": "date",
+            "status": "active"
+          },
+          "ghi_chu": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "deleted$survey_form": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "deleted"
+          },
+          "deleted$survey_form_detail": {
+            "name": "f_string_4",
+            "type": "string",
+            "status": "deleted"
+          },
+          "deleted$group_source": {
+            "name": "f_string_5",
+            "type": "string",
+            "status": "deleted"
+          },
+          "survey_form": {
+            "name": "f_string_6",
+            "type": "string",
+            "status": "active"
+          },
+          "survey_form_detail": {
+            "name": "f_string_7",
+            "type": "string",
+            "status": "active"
+          },
+          "group_source": {
+            "name": "f_string_8",
+            "type": "string",
+            "status": "active"
+          },
+          "value": {
+            "name": "f_string_10",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "sale": {
+        "table": "data_customer_attribute",
+        "field": {
+          "email": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "name": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          },
+          "tags": {
+            "name": "f_string_4",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "deleted$nhieu_cap": {
+        "table": "data_customer_attribute",
+        "field": {
+          "deleted$value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "deleted"
+          },
+          "deleted$label": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "deleted"
+          },
+          "deleted$id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "deleted"
+          }
+        },
+        "status": "deleted"
+      },
+      "nhieu_cap": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "label": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "deleted$tags": {
+        "table": "data_customer_attribute",
+        "field": {
+          "deleted$value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "deleted"
+          },
+          "deleted$label": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "deleted"
+          },
+          "deleted$id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "deleted"
+          }
+        },
+        "status": "deleted"
+      },
+      "deleted$chon_mot": {
+        "table": "data_customer_attribute",
+        "field": {
+          "deleted$value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "deleted"
+          },
+          "deleted$label": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "deleted"
+          },
+          "deleted$id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "deleted"
+          }
+        },
+        "status": "deleted"
+      },
+      "chon_mot": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "label": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "deleted$chon_nhieu": {
+        "table": "data_customer_attribute",
+        "field": {
+          "deleted$value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "deleted"
+          },
+          "deleted$label": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "deleted"
+          },
+          "deleted$id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "deleted"
+          }
+        },
+        "status": "deleted"
+      },
+      "chon_nhieu": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "label": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "tags": {
+        "table": "data_customer_attribute",
+        "field": {
+          "value": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          },
+          "label": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "id": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "lien_ket": {
+        "table": "data_customer_attribute",
+        "field": {
+          "id": {
+            "name": "f_string_1",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      }
+    },
+    "field_normal": {
+      "_last_activity_time": {
+        "name": "f_date_1",
+        "type": "date",
+        "status": "active"
+      },
+      "is_merge_item": {
+        "name": "f_boolean_1",
+        "type": "boolean",
+        "status": "active"
+      },
+      "sinh_nhat": {
+        "name": "f_date_2",
+        "type": "date",
+        "status": "active"
+      },
+      "_date_sinh_nhat": {
+        "name": "f_date_3",
+        "type": "date",
+        "status": "active"
+      },
+      "sync_id": {
+        "name": "f_string_5",
+        "type": "string",
+        "status": "active"
+      },
+      "tmp_unique": {
+        "name": "f_string_6",
+        "type": "string",
+        "status": "active"
+      },
+      "note": {
+        "name": "f_text_1",
+        "type": "text",
+        "status": "active"
+      },
+      "website": {
+        "name": "f_string_7",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_first_utm_source": {
+        "name": "f_string_8",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_first_utm_campaign": {
+        "name": "f_string_9",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_first_utm_medium": {
+        "name": "f_string_10",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_first_utm_content": {
+        "name": "f_string_11",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_first_utm_term": {
+        "name": "f_string_12",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_first_utm_referer": {
+        "name": "f_string_13",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_converted_utm_source": {
+        "name": "f_string_14",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_converted_utm_campaign": {
+        "name": "f_string_15",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_converted_utm_medium": {
+        "name": "f_string_16",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_converted_utm_content": {
+        "name": "f_string_17",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_converted_utm_term": {
+        "name": "f_string_18",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_converted_utm_referer": {
+        "name": "f_string_19",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_converted_last_utm_source": {
+        "name": "f_string_20",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_converted_last_utm_campaign": {
+        "name": "f_string_21",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_converted_last_utm_medium": {
+        "name": "f_string_22",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_converted_last_utm_content": {
+        "name": "f_string_23",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_converted_last_utm_term": {
+        "name": "f_string_24",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_converted_last_utm_referer": {
+        "name": "f_string_25",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_last_utm_source": {
+        "name": "f_string_26",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_last_utm_campaign": {
+        "name": "f_string_27",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_last_utm_medium": {
+        "name": "f_string_28",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_last_utm_content": {
+        "name": "f_string_29",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_last_utm_term": {
+        "name": "f_string_30",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_last_utm_referer": {
+        "name": "f_string_31",
+        "type": "string",
+        "status": "active"
+      },
+      "first_source_ad_param": {
+        "name": "f_string_32",
+        "type": "string",
+        "status": "active"
+      },
+      "first_source_ad_time": {
+        "name": "f_date_4",
+        "type": "date",
+        "status": "active"
+      },
+      "first_source_ad_param_0": {
+        "name": "f_string_33",
+        "type": "string",
+        "status": "active"
+      },
+      "first_source_ad_param_1": {
+        "name": "f_string_34",
+        "type": "string",
+        "status": "active"
+      },
+      "first_source_ad_param_2": {
+        "name": "f_string_35",
+        "type": "string",
+        "status": "active"
+      },
+      "first_source_ad_param_3": {
+        "name": "f_string_36",
+        "type": "string",
+        "status": "active"
+      },
+      "first_source_ad_param_4": {
+        "name": "f_string_37",
+        "type": "string",
+        "status": "active"
+      },
+      "last_source_ad_param": {
+        "name": "f_string_38",
+        "type": "string",
+        "status": "active"
+      },
+      "last_source_ad_time": {
+        "name": "f_date_5",
+        "type": "date",
+        "status": "active"
+      },
+      "last_source_ad_param_0": {
+        "name": "f_string_39",
+        "type": "string",
+        "status": "active"
+      },
+      "last_source_ad_param_1": {
+        "name": "f_string_40",
+        "type": "string",
+        "status": "active"
+      },
+      "last_source_ad_param_2": {
+        "name": "f_string_41",
+        "type": "string",
+        "status": "active"
+      },
+      "last_source_ad_param_3": {
+        "name": "f_string_42",
+        "type": "string",
+        "status": "active"
+      },
+      "last_source_ad_param_4": {
+        "name": "f_string_43",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_source": {
+        "name": "f_string_44",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_campaign": {
+        "name": "f_string_45",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_medium": {
+        "name": "f_string_46",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_content": {
+        "name": "f_string_47",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_term": {
+        "name": "f_string_48",
+        "type": "string",
+        "status": "active"
+      },
+      "utm_referer": {
+        "name": "f_string_49",
+        "type": "string",
+        "status": "active"
+      },
+      "eshop_id": {
+        "name": "f_string_50",
+        "type": "string",
+        "status": "active"
+      },
+      "_last_call_out_time": {
+        "name": "f_date_6",
+        "type": "date",
+        "status": "active"
+      },
+      "_last_call_in_time": {
+        "name": "f_date_7",
+        "type": "date",
+        "status": "active"
+      },
+      "_total_call_out": {
+        "name": "f_double_1",
+        "type": "double",
+        "status": "active"
+      },
+      "_total_call_in": {
+        "name": "f_double_2",
+        "type": "double",
+        "status": "active"
+      },
+      "_number_order": {
+        "name": "f_double_3",
+        "type": "double",
+        "status": "active"
+      },
+      "_order_value": {
+        "name": "f_double_4",
+        "type": "double",
+        "status": "active"
+      },
+      "_order_value_in_year": {
+        "name": "f_double_5",
+        "type": "double",
+        "status": "active"
+      },
+      "_last_order": {
+        "name": "f_date_8",
+        "type": "date",
+        "status": "active"
+      },
+      "_first_order": {
+        "name": "f_date_9",
+        "type": "date",
+        "status": "active"
+      },
+      "_total_order_data_item": {
+        "name": "f_double_6",
+        "type": "double",
+        "status": "active"
+      },
+      "tax_code": {
+        "name": "f_string_51",
+        "type": "string",
+        "status": "active"
+      },
+      "ma_khach_hang": {
+        "name": "f_string_52",
+        "type": "string",
+        "status": "active"
+      },
+      "is_duplicate": {
+        "name": "f_string_53",
+        "type": "string",
+        "status": "active"
+      },
+      "_last_chat_link": {
+        "name": "f_string_54",
+        "type": "string",
+        "status": "active"
+      },
+      "_paid_value": {
+        "name": "f_double_7",
+        "type": "double",
+        "status": "active"
+      },
+      "tiktok_id": {
+        "name": "f_string_55",
+        "type": "string",
+        "status": "active"
+      },
+      "lazada_id": {
+        "name": "f_string_56",
+        "type": "string",
+        "status": "active"
+      },
+      "shopee_id": {
+        "name": "f_string_57",
+        "type": "string",
+        "status": "active"
+      },
+      "haravan_id": {
+        "name": "f_string_58",
+        "type": "string",
+        "status": "active"
+      },
+      "kiot_viet_id": {
+        "name": "f_string_59",
+        "type": "string",
+        "status": "active"
+      },
+      "order_ship_address": {
+        "name": "f_string_60",
+        "type": "string",
+        "status": "active"
+      },
+      "is_create_customer": {
+        "name": "f_string_61",
+        "type": "string",
+        "status": "active"
+      },
+      "rd_fb_user_id": {
+        "name": "f_string_62",
+        "type": "string",
+        "status": "active"
+      },
+      "rd_leadgen_ad_id": {
+        "name": "f_string_63",
+        "type": "string",
+        "status": "active"
+      },
+      "rd_full_name": {
+        "name": "f_string_64",
+        "type": "string",
+        "status": "active"
+      },
+      "_number_event": {
+        "name": "f_double_8",
+        "type": "double",
+        "status": "active"
+      },
+      "_last_note_time": {
+        "name": "f_date_10",
+        "type": "date",
+        "status": "active"
+      },
+      "created_at": {
+        "name": "f_date_11",
+        "type": "date",
+        "status": "active"
+      },
+      "created_at_system": {
+        "name": "f_date_12",
+        "type": "date",
+        "status": "active"
+      },
+      "updated_at": {
+        "name": "f_date_13",
+        "type": "date",
+        "status": "active"
+      },
+      "_auto_id": {
+        "name": "f_long_3",
+        "type": "long",
+        "status": "active"
+      },
+      "no_formula": {
+        "name": "f_long_4",
+        "type": "long",
+        "status": "active"
+      },
+      "_first_time_assign_sale": {
+        "name": "f_date_14",
+        "type": "date",
+        "status": "active"
+      },
+      "_last_time_assign_sale": {
+        "name": "f_date_15",
+        "type": "date",
+        "status": "active"
+      },
+      "_first_time_assign_main_sale": {
+        "name": "f_date_16",
+        "type": "date",
+        "status": "active"
+      },
+      "_last_time_assign_main_sale": {
+        "name": "f_date_17",
+        "type": "date",
+        "status": "active"
+      },
+      "dang_ky_lan_thu_may": {
+        "name": "f_double_9",
+        "type": "double",
+        "status": "active"
+      },
+      "cong_ty_khac": {
+        "name": "f_string_69",
+        "type": "string",
+        "status": "active"
+      },
+      "birthday": {
+        "name": "f_date_18",
+        "type": "date",
+        "status": "active"
+      },
+      "chuc_vu": {
+        "name": "f_string_70",
+        "type": "string",
+        "status": "active"
+      },
+      "facebook_id_fp": {
+        "name": "f_string_71",
+        "type": "string",
+        "status": "active"
+      },
+      "facebook_sender_id": {
+        "name": "f_string_72",
+        "type": "string",
+        "status": "active"
+      },
+      "ngay_dang_ky_gan_nhat": {
+        "name": "f_date_19",
+        "type": "date",
+        "status": "active"
+      },
+      "khong_tttt": {
+        "name": "f_string_73",
+        "type": "string",
+        "status": "active"
+      },
+      "ghi_chu": {
+        "name": "f_text_3",
+        "type": "text",
+        "status": "active"
+      },
+      "rd_address": {
+        "name": "f_string_74",
+        "type": "string",
+        "status": "active"
+      },
+      "rd_conversation_id": {
+        "name": "f_string_75",
+        "type": "string",
+        "status": "active"
+      },
+      "rd_first_fb_message_time": {
+        "name": "f_date_20",
+        "type": "date",
+        "status": "active"
+      },
+      "rd_first_name": {
+        "name": "f_string_76",
+        "type": "string",
+        "status": "active"
+      },
+      "rd_gender": {
+        "name": "f_string_77",
+        "type": "string",
+        "status": "active"
+      },
+      "rd_last_assign_for": {
+        "name": "f_date_21",
+        "type": "date",
+        "status": "active"
+      },
+      "rd_last_fb_message_messenger_time": {
+        "name": "f_date_22",
+        "type": "date",
+        "status": "active"
+      },
+      "rd_last_message_time_old_user": {
+        "name": "f_date_23",
+        "type": "date",
+        "status": "active"
+      },
+      "rd_last_name": {
+        "name": "f_string_78",
+        "type": "string",
+        "status": "active"
+      },
+      "rd_user_id": {
+        "name": "f_string_79",
+        "type": "string",
+        "status": "active"
+      },
+      "rd_username": {
+        "name": "f_string_80",
+        "type": "string",
+        "status": "active"
+      },
+      "ten_cong_ty_ca_nhan": {
+        "name": "f_string_87",
+        "type": "string",
+        "status": "active"
+      },
+      "so_luong": {
+        "name": "f_double_10",
+        "type": "double",
+        "status": "active"
+      },
+      "vi_tri_du_an": {
+        "name": "f_string_88",
+        "type": "string",
+        "status": "active"
+      },
+      "project_id": {
+        "name": "project_id",
+        "type": "string",
+        "status": "active"
+      },
+      "status": {
+        "name": "status",
+        "type": "string",
+        "status": "active"
+      },
+      "_id": {
+        "name": "_id",
+        "type": "string",
+        "status": "active"
+      },
+      "_text": {
+        "name": "_text",
+        "type": "text",
+        "status": "active"
+      },
+      "gia_tien": {
+        "name": "f_double_11",
+        "type": "double",
+        "status": "active"
+      },
+      "deleted$dia_chi": {
+        "name": "f_text_8",
+        "type": "text",
+        "status": "deleted"
+      },
+      "dia_chi": {
+        "name": "f_text_9",
+        "type": "text",
+        "status": "active"
+      },
+      "deleted$__id": {
+        "name": "__id",
+        "type": "string",
+        "status": "deleted"
+      },
+      "__id": {
+        "name": "f_string_89",
+        "type": "string",
+        "status": "active"
+      },
+      "deleted$name": {
+        "name": "f_text_10",
+        "type": "text",
+        "status": "deleted"
+      },
+      "deleted$truong_them_moi_text": {
+        "name": "f_string_93",
+        "type": "string",
+        "status": "deleted"
+      },
+      "truong_them_moi_text": {
+        "name": "f_string_94",
+        "type": "string",
+        "status": "active"
+      },
+      "deleted$_is_converted": {
+        "name": "f_long_1",
+        "type": "long",
+        "status": "deleted"
+      },
+      "_is_converted": {
+        "name": "f_long_5",
+        "type": "long",
+        "status": "active"
+      },
+      "deleted$_is_synced_to_crm": {
+        "name": "f_long_2",
+        "type": "long",
+        "status": "deleted"
+      },
+      "_is_synced_to_crm": {
+        "name": "f_long_6",
+        "type": "long",
+        "status": "active"
+      },
+      "deleted$ngay_thang": {
+        "name": "f_date_26",
+        "type": "date",
+        "status": "deleted"
+      },
+      "ngay_thang": {
+        "name": "f_date_27",
+        "type": "date",
+        "status": "active"
+      },
+      "name": {
+        "name": "f_text_11",
+        "type": "text",
+        "status": "active"
+      }
+    },
+    "field_object": {
+      "tinh_thanh": {
+        "field": {
+          "province": {
+            "name": "f_string_2",
+            "type": "string",
+            "status": "active"
+          },
+          "district": {
+            "name": "f_string_3",
+            "type": "string",
+            "status": "active"
+          },
+          "town": {
+            "name": "f_string_4",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "created_by": {
+        "field": {
+          "id": {
+            "name": "f_string_65",
+            "type": "string",
+            "status": "active"
+          },
+          "sale_id": {
+            "name": "f_string_66",
+            "type": "string",
+            "status": "active"
+          },
+          "email": {
+            "name": "f_string_67",
+            "type": "string",
+            "status": "active"
+          },
+          "name": {
+            "name": "f_string_68",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "tinh": {
+        "field": {
+          "province": {
+            "name": "f_string_84",
+            "type": "string",
+            "status": "active"
+          },
+          "district": {
+            "name": "f_string_85",
+            "type": "string",
+            "status": "active"
+          },
+          "town": {
+            "name": "f_string_86",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      },
+      "deleted$tinh_thanh_pho": {
+        "field": {
+          "deleted$province": {
+            "name": "f_string_98",
+            "type": "string",
+            "status": "deleted"
+          },
+          "deleted$district": {
+            "name": "f_string_99",
+            "type": "string",
+            "status": "deleted"
+          },
+          "deleted$town": {
+            "name": "f_string_100",
+            "type": "string",
+            "status": "deleted"
+          }
+        },
+        "status": "deleted"
+      },
+      "tinh_thanh_pho": {
+        "field": {
+          "province": {
+            "name": "f_string_101",
+            "type": "string",
+            "status": "active"
+          },
+          "district": {
+            "name": "f_string_102",
+            "type": "string",
+            "status": "active"
+          },
+          "town": {
+            "name": "f_string_103",
+            "type": "string",
+            "status": "active"
+          }
+        },
+        "status": "active"
+      }
+    },
+    "project_id": "614a93e4341f5672f95cblll",
+    "table_new_name": "data_customer",
+    "table_old_name": "data_customer"
+  }
+]
